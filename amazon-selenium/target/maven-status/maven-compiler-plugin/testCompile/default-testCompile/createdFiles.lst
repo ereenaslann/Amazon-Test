@@ -1,0 +1,8 @@
+ProductDetailPage.class
+BasePage.class
+ProductsPage.class
+HomePage.class
+CartPage.class
+SearchBox.class
+BaseTest.class
+Test_Add_Product_To_Cart.class
